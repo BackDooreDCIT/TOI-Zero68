@@ -1,0 +1,11 @@
+num = int(input())
+ten = num//10
+tendeci = num%10
+five = tendeci//5
+fivedeci = tendeci%5
+two = fivedeci//2
+one = fivedeci%2
+print("10 =",ten)
+print("5 =",five)
+print("2 =",two)
+print("1 =",one)
