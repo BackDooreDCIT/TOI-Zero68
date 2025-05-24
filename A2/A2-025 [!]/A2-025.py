@@ -10,7 +10,10 @@ rabbitposX = int(rabbitpos[0])
 rabbitposY = int(rabbitpos[1])
 infectedamount = int(input())
 townmap = []
+
 for i in range(xAxis*yAxis):
     townmap.append(0)
+
 for i in range(infectedamount):
-    
+    inp = input().split()
+    coordinate = 
