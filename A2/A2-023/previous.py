@@ -18,12 +18,15 @@ else:
         else:
             a.append(ag)
             ag = 0
-        if (txtli[i] == "a" and (txtli[i-1] != "r" and txtli[i-1] != "a")) or (txtli[i] == "b" and (txtli[i-1] == "b" or txtli[i-1] == "r")) or ((txtli[i] != "i" and txtli[i] != "t") and txtli[i-1] == "b"):
-            result = "no"
-            incorrectpos = i
-            break
+        if i == 0:
+            pass
         else:
-            result = "yes"
+            if (txtli[i] == "a" and (txtli[i-1] != "r" and txtli[i-1] != "a")) or (txtli[i] == "b" and (txtli[i-1] == "b" or txtli[i-1] == "r")):
+                result = "no"
+                incorrectpos = i
+                break
+            else:
+                result = "yes"
 if len(a) == 0:
     a.append(0)
 a.sort(reverse=True)
