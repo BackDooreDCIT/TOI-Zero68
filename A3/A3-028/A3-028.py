@@ -16,7 +16,7 @@ for i in range(len(li)):
             if li[i][j] == "x":
                 if j == 0:
                     x = list(li[i][j:j+1])
-                    bombastic = x.count("x")
+                    bombastic = 1
                     if i == 0:
                         if li[i][j+1] != "x":
                             li[i][j+1] += bombastic
@@ -72,7 +72,7 @@ for i in range(len(li)):
                             li[i][j-1] += bombastic
                 else:
                     x = list(li[i][j-1:j+1])
-                    bombastic = x.count("x")
+                    bombastic = 1
                     if i == 0:
                         if li[i][j-1] != "x":
                             li[i][j-1] += bombastic
