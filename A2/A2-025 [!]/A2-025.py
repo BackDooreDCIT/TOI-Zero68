@@ -16,4 +16,4 @@ for i in range(xAxis*yAxis):
 
 for i in range(infectedamount):
     inp = input().split()
-    coordinate = 
+    coordinate = 7
