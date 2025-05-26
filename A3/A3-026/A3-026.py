@@ -15,7 +15,7 @@ for i in range(looptime):
     map2.append(list(inp.strip()))
 
 # print('map2:', map2)
-print('=========')
+# print('=========')
 
 for i in range(looptime):
     for j in range(len(map1[i])):
@@ -30,4 +30,3 @@ for i in range(looptime):
 
 for i in range(looptime):
         print(*map1[i], sep="")
-
