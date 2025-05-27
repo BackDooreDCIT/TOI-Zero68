@@ -14,7 +14,7 @@ There are 40 ***A1*** questions, 32 ***A2*** questions, and 28 ***A3*** question
 
 The languages available for submission are [**C++17**](https://en.wikipedia.org/wiki/C%2B%2B17), [**C11**](https://en.wikipedia.org/wiki/C11_(C_standard_revision)), and [**Python 3**](https://www.python.org/), but I will be using [**Python 3**](https://www.python.org/) for all of my submissions. *(This may change later if I have time left before the deadline.)*
 
-Each folder contains both the question *(Written in Thai)* and solution, *albeit may not be exactly the most efficient one.*
+Each folder contains both the question *(Written in Thai)* made in PDF and solution, *albeit may not be exactly the most efficient one.*
 
 # Contacts:
 
