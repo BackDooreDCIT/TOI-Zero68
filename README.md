@@ -8,9 +8,9 @@ Each of these files/questions in this repository is made and solved by **Paratt
 
 # Information:
 
-Each questions are classified into 3 difficulties, ranging from A1 (Easy), A2 (Medium), and A3 (Hard).
+Each questions are classified into 3 difficulties, ranging from **A1** *(Easy)*, **A2** *(Medium)*, and **A3** *(Hard)*.
 
-There are 40 ***A1*** questions, 32 ***A2*** questions, and 28 ***A3*** questions, which is 100 questions in total.
+There are 40 ***A1*** questions, 32 ***A2*** questions, and 28 ***A3*** questions, which is ***100 questions*** in total.
 
 The languages available for submission are [**C++17**](https://en.wikipedia.org/wiki/C%2B%2B17), [**C11**](https://en.wikipedia.org/wiki/C11_(C_standard_revision)), and [**Python 3**](https://www.python.org/), but I will be using [**Python 3**](https://www.python.org/) for all of my submissions. *(This may change later if I have time left before the deadline.)*
 
