@@ -2,9 +2,9 @@ storeamount = int(input())
 prices = input().split()
 allpossible = []
 curprice = []
+
 for i in range(storeamount):
     curprice = prices[i:len(prices)]
-    # print(curprice)
     for j in range(len(curprice)):
         if j == 0:
             pass
@@ -15,4 +15,5 @@ for i in range(storeamount):
             allpossible.append(int(curprice[j]))
         else:
             pass
+
 print(len(allpossible))
