@@ -21,3 +21,7 @@ Each folder contains both the question *(Written in Thai)* made in PDF and solut
 **Discord: @backdoore**
 
 **Email: [noempang2@gmail.com](mailto:noempang2@gmail.com) (For work/business related only.)**
+
+# License
+
+**MIT License - Use freely in your projects, commercial or personal.**
